@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning React.js, React Native and Next.js
 
-- 📫 How to reach me: linkedin.com/in/ricardonagel/
+- 📫 How to reach me: https://www.linkedin.com/in/ricardonagel/
