@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-- 🔭 I’m currently working on Nuntec Agro
+- 🔭 I’m currently working at Nuntec Agro
 
 - 🌱 I’m currently learning React.js, React Native and Next.js
 
